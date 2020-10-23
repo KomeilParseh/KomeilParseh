@@ -1,6 +1,6 @@
-## Hi there 👋
-#### <center>I'm **Komeil Parseh**. i'm *student*.</center>
-
+# Hi there 👋
+### <center>I'm **Komeil Parseh**. i'm *student*.</center>
+####  My blog in Persian at https://virgool.io/@Parseh
 <!--
 **KomeilParseh/KomeilParseh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
